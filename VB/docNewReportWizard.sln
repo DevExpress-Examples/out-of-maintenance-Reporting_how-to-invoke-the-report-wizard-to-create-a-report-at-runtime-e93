@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "docNewReportWizard", "docNewReportWizard.vbproj", "{CC66EFB9-863C-42A2-9E23-8BBA8085D278}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = docNewReportWizard.vbproj
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC66EFB9-863C-42A2-9E23-8BBA8085D278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC66EFB9-863C-42A2-9E23-8BBA8085D278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC66EFB9-863C-42A2-9E23-8BBA8085D278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC66EFB9-863C-42A2-9E23-8BBA8085D278}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
