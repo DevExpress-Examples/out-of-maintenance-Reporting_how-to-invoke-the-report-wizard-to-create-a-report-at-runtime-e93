@@ -4,7 +4,7 @@ using DevExpress.XtraReports.UI;
 using DevExpress.XtraReports.UserDesigner;
 // ...
 
-namespace docNewReportWizard {
+namespace HowInvokeReportWizard {
     public partial class Form1 : Form {
         public Form1() {
             InitializeComponent();
@@ -24,7 +24,7 @@ namespace docNewReportWizard {
             string fileName = "temp.repx";
             XRDesignForm form = new XRDesignForm();
             form.DesignMdiController.CreateNewReportWizard();
-            form.ActiveDesignPanel.BeginInvoke(new MethodInvoker(() => { form.ActiveDesignPanel.Report.SaveLayout(fileName); }));
+            form.ActiveDesignPanel.Invoke(new Action(() => form.ActiveDesignPanel.Report.SaveLayout(fileName)));
             return fileName;
         }
         private void PreviewReport(string fileName) {

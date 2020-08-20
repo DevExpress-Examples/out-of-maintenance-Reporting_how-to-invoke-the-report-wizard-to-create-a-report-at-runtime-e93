@@ -1,4 +1,4 @@
-namespace docNewReportWizard {
+﻿namespace HowInvokeReportWizard {
     partial class Form1 {
         /// <summary>
         /// Required designer variable.
