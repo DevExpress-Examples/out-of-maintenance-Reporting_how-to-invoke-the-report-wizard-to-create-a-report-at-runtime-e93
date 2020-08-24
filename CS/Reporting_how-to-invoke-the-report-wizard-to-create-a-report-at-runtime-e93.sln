@@ -1,8 +1,9 @@
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30406.217
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docNewReportWizard", "docNewReportWizard.csproj", "{CC66EFB9-863C-42A2-9E23-8BBA8085D278}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowInvokeReportWizard", "Reporting_how-to-invoke-the-report-wizard-to-create-a-report-at-runtime-e93\HowInvokeReportWizard.csproj", "{CC66EFB9-863C-42A2-9E23-8BBA8085D278}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,11 +15,11 @@ Global
 		{CC66EFB9-863C-42A2-9E23-8BBA8085D278}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC66EFB9-863C-42A2-9E23-8BBA8085D278}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC66EFB9-863C-42A2-9E23-8BBA8085D278}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
+		EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A753CDA2-C8F2-43B0-9CED-54F6AAC28336}
+		SolutionGuid = {E0CBB4BC-72A3-4DB0-BB3B-0C230452BE59}
 	EndGlobalSection
 EndGlobal
